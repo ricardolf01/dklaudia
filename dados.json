@@ -1,0 +1,171 @@
+{
+ "cfg": {
+  "par": 3,
+  "mq": "Elegância atemporal para os seus momentos  •  Moda feminina e masculina  •  #vistaseusmomentos",
+  "desc": "Elegância atemporal para os seus momentos. Moda feminina e masculina, do casual ao sofisticado, que completam o seu estilo. Igarapé-Açu, Pará.",
+  "wa": "",
+  "ig": "dklaudia_modas",
+  "addr": "Lojas Dklaudia, Igarapé-Açu - PA, 68725-000",
+  "h1": "",
+  "h2": "",
+  "logo": ""
+ },
+ "cats": [
+  {
+   "id": "c1",
+   "n": "Vestidos"
+  },
+  {
+   "id": "c2",
+   "n": "Conjuntos"
+  },
+  {
+   "id": "c3",
+   "n": "Blusas"
+  },
+  {
+   "id": "c4",
+   "n": "Saias"
+  },
+  {
+   "id": "c5",
+   "n": "Shorts"
+  },
+  {
+   "id": "c6",
+   "n": "Calças"
+  },
+  {
+   "id": "c7",
+   "n": "Jeans"
+  },
+  {
+   "id": "c8",
+   "n": "Moda Plus Size"
+  },
+  {
+   "id": "c9",
+   "n": "Moda Masculina"
+  },
+  {
+   "id": "c10",
+   "n": "Acessórios"
+  },
+  {
+   "id": "c11",
+   "n": "Bolsas"
+  }
+ ],
+ "bans": [
+  {
+   "id": "b1",
+   "t": "D’Klaudia Modas",
+   "s": "Elegância atemporal para os seus momentos",
+   "bb": "Ver novidades",
+   "img": "",
+   "cat": "s/nv"
+  }
+ ],
+ "prods": [
+  {
+   "ph": [],
+   "sz": {
+    "P": 3,
+    "M": 0,
+    "G": 5,
+    "GG": 2
+   },
+   "cl": [
+    "Nude"
+   ],
+   "i": "",
+   "m": "",
+   "d": "Vestido midi elegante e confortável. (Produto de exemplo: edite ou exclua no painel.)",
+   "pp": 0,
+   "st": 1,
+   "id": "p1",
+   "n": "Vestido Midi Elegance",
+   "c": "c1",
+   "p": 139.9,
+   "fl": {
+    "nv": 1,
+    "mv": 1,
+    "lc": 0
+   }
+  },
+  {
+   "ph": [],
+   "sz": {
+    "M": 2,
+    "G": 4
+   },
+   "cl": [],
+   "i": "",
+   "m": "",
+   "d": "Conjunto casual em tom nude, do dia a dia ao sofisticado. (Produto de exemplo: edite ou exclua no painel.)",
+   "pp": 149.9,
+   "st": 1,
+   "id": "p2",
+   "n": "Conjunto Casual Nude",
+   "c": "c2",
+   "p": 169.9,
+   "fl": {
+    "nv": 0,
+    "mv": 0,
+    "lc": 1
+   }
+  },
+  {
+   "ph": [],
+   "sz": {
+    "P": 4,
+    "M": 4,
+    "G": 2
+   },
+   "cl": [
+    "Off White",
+    "Bege"
+   ],
+   "i": "",
+   "m": "",
+   "d": "Blusa delicada para o dia a dia. (Produto de exemplo: edite ou exclua no painel.)",
+   "pp": 0,
+   "st": 1,
+   "id": "p3",
+   "n": "Blusa Delicate",
+   "c": "c3",
+   "p": 79.9,
+   "fl": {
+    "nv": 1,
+    "mv": 0,
+    "lc": 0
+   }
+  },
+  {
+   "ph": [],
+   "sz": {
+    "P": 2,
+    "M": 3,
+    "G": 3,
+    "GG": 1
+   },
+   "cl": [
+    "Branco"
+   ],
+   "i": "",
+   "m": "",
+   "d": "Camisa social masculina de caimento slim. (Produto de exemplo: edite ou exclua no painel.)",
+   "pp": 0,
+   "st": 1,
+   "id": "p4",
+   "n": "Camisa Social Slim",
+   "c": "c9",
+   "p": 119.9,
+   "fl": {
+    "nv": 0,
+    "mv": 1,
+    "lc": 0
+   }
+  }
+ ]
+}
