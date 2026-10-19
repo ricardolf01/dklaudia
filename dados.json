@@ -66,32 +66,5 @@
    "cat": "s/nv"
   }
  ],
- "prods": [
-  {
-   "ph": [],
-   "sz": {
-    "P": 2,
-    "M": 3,
-    "G": 3,
-    "GG": 1
-   },
-   "cl": [
-    "Branco"
-   ],
-   "i": "",
-   "m": "",
-   "d": "Camisa social masculina de caimento slim. (Produto de exemplo: edite ou exclua no painel.)",
-   "pp": 0,
-   "st": 1,
-   "id": "p4",
-   "n": "Camisa Social Slim",
-   "c": "c9",
-   "p": 119.9,
-   "fl": {
-    "nv": 0,
-    "mv": 1,
-    "lc": 0
-   }
-  }
- ]
+ "prods": []
 }
