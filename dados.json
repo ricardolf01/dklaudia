@@ -68,6 +68,33 @@
  ],
  "prods": [
   {
+   "id": "pmvftua9a",
+   "n": "Vestido vinho pra sair",
+   "c": "c1",
+   "p": 130,
+   "pp": 89.9,
+   "d": "",
+   "i": "",
+   "m": "",
+   "ph": [
+    "fotos/mvftufeo6gfi.jpg"
+   ],
+   "st": 1,
+   "fl": {
+    "nv": 1,
+    "lc": 0,
+    "mv": 0
+   },
+   "sz": {
+    "P": 10,
+    "M": 10,
+    "G": 10
+   },
+   "cl": [
+    "Vinho"
+   ]
+  },
+  {
    "id": "pmvftrypy",
    "n": "Vestido marrom",
    "c": "c1",
