@@ -68,6 +68,33 @@
  ],
  "prods": [
   {
+   "id": "pmvftvnxu",
+   "n": "Vestido basico",
+   "c": "c1",
+   "p": 149,
+   "pp": 120,
+   "d": "",
+   "i": "",
+   "m": "",
+   "ph": [
+    "fotos/mvftvufrtxuj.jpg"
+   ],
+   "st": 1,
+   "fl": {
+    "nv": 1,
+    "lc": 0,
+    "mv": 0
+   },
+   "sz": {
+    "P": 10,
+    "M": 10,
+    "G": 10
+   },
+   "cl": [
+    "Azul"
+   ]
+  },
+  {
    "id": "pmvftua9a",
    "n": "Vestido vinho pra sair",
    "c": "c1",
