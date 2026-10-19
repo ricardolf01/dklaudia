@@ -70,32 +70,6 @@
   {
    "ph": [],
    "sz": {
-    "P": 3,
-    "M": 0,
-    "G": 5,
-    "GG": 2
-   },
-   "cl": [
-    "Nude"
-   ],
-   "i": "",
-   "m": "",
-   "d": "Vestido midi elegante e confortável. (Produto de exemplo: edite ou exclua no painel.)",
-   "pp": 0,
-   "st": 1,
-   "id": "p1",
-   "n": "Vestido Midi Elegance",
-   "c": "c1",
-   "p": 139.9,
-   "fl": {
-    "nv": 1,
-    "mv": 1,
-    "lc": 0
-   }
-  },
-  {
-   "ph": [],
-   "sz": {
     "M": 2,
     "G": 4
    },
