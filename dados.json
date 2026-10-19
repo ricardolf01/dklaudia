@@ -66,5 +66,33 @@
    "cat": "s/nv"
   }
  ],
- "prods": []
+ "prods": [
+  {
+   "id": "pmvftrypy",
+   "n": "Vestido marrom",
+   "c": "c1",
+   "p": 120,
+   "pp": 79.9,
+   "d": "Vestido pra sair pra eventos e tudo mais ❤️",
+   "i": "",
+   "m": "",
+   "ph": [
+    "fotos/mvfts9i4tphl.jpg"
+   ],
+   "st": 1,
+   "fl": {
+    "nv": 0,
+    "lc": 1,
+    "mv": 0
+   },
+   "sz": {
+    "P": 10,
+    "M": 10,
+    "G": 10
+   },
+   "cl": [
+    "Marrom"
+   ]
+  }
+ ]
 }
