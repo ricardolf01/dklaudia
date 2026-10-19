@@ -56,35 +56,12 @@
    "n": "Bolsas"
   }
  ],
- "bans": [
-  {
-   "id": "b1",
-   "t": "D’Klaudia Modas",
-   "s": "Elegância atemporal para os seus momentos",
-   "bb": "Ver novidades",
-   "img": "",
-   "cat": "s/nv"
-  }
- ],
+ "bans": [],
  "prods": [
   {
-   "id": "pmvftvnxu",
-   "n": "Vestido basico",
-   "c": "c1",
-   "p": 149,
-   "pp": 120,
-   "d": "",
-   "i": "",
-   "m": "",
    "ph": [
     "fotos/mvftvufrtxuj.jpg"
    ],
-   "st": 1,
-   "fl": {
-    "nv": 1,
-    "lc": 0,
-    "mv": 0
-   },
    "sz": {
     "P": 10,
     "M": 10,
@@ -92,26 +69,26 @@
    },
    "cl": [
     "Azul"
-   ]
-  },
-  {
-   "id": "pmvftua9a",
-   "n": "Vestido vinho pra sair",
-   "c": "c1",
-   "p": 130,
-   "pp": 89.9,
-   "d": "",
+   ],
    "i": "",
    "m": "",
+   "d": "",
+   "pp": 120,
+   "st": 1,
+   "id": "pmvftvnxu",
+   "n": "Vestido basico",
+   "c": "c1",
+   "p": 149,
+   "fl": {
+    "nv": 1,
+    "mv": 0,
+    "lc": 0
+   }
+  },
+  {
    "ph": [
     "fotos/mvftufeo6gfi.jpg"
    ],
-   "st": 1,
-   "fl": {
-    "nv": 1,
-    "lc": 0,
-    "mv": 0
-   },
    "sz": {
     "P": 10,
     "M": 10,
@@ -119,26 +96,26 @@
    },
    "cl": [
     "Vinho"
-   ]
-  },
-  {
-   "id": "pmvftrypy",
-   "n": "Vestido marrom",
-   "c": "c1",
-   "p": 120,
-   "pp": 79.9,
-   "d": "Vestido pra sair pra eventos e tudo mais ❤️",
+   ],
    "i": "",
    "m": "",
+   "d": "",
+   "pp": 89.9,
+   "st": 1,
+   "id": "pmvftua9a",
+   "n": "Vestido vinho pra sair",
+   "c": "c1",
+   "p": 130,
+   "fl": {
+    "nv": 1,
+    "mv": 0,
+    "lc": 0
+   }
+  },
+  {
    "ph": [
     "fotos/mvfts9i4tphl.jpg"
    ],
-   "st": 1,
-   "fl": {
-    "nv": 0,
-    "lc": 1,
-    "mv": 0
-   },
    "sz": {
     "P": 10,
     "M": 10,
@@ -146,7 +123,21 @@
    },
    "cl": [
     "Marrom"
-   ]
+   ],
+   "i": "",
+   "m": "",
+   "d": "Vestido pra sair pra eventos e tudo mais ❤️",
+   "pp": 79.9,
+   "st": 1,
+   "id": "pmvftrypy",
+   "n": "Vestido marrom",
+   "c": "c1",
+   "p": 120,
+   "fl": {
+    "nv": 0,
+    "mv": 0,
+    "lc": 1
+   }
   }
  ]
 }
